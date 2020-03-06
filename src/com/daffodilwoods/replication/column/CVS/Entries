@@ -1,0 +1,25 @@
+/AbstractColumnObject.java/1.8/Sat Apr 23 10:05:28 2005//Treplicator2_1
+/BigDecimalObject.java/1.18/Wed Jul 20 11:13:20 2005//Treplicator2_1
+/BlobObject.java/1.28/Fri Jan 06 11:18:10 2006//Treplicator2_1
+/BlobOutPutStream.java/1.15/Tue Apr 12 05:55:21 2005//Treplicator2_1
+/BooleanObject.java/1.18/Sat Jul 16 14:04:14 2005//Treplicator2_1
+/ByteObject.java/1.16/Sat Jul 16 14:04:14 2005//Treplicator2_1
+/BytesObject.java/1.13/Sat Jul 16 14:04:14 2005//Treplicator2_1
+/ClobObject.java/1.28/Sat Jul 16 14:04:14 2005//Treplicator2_1
+/ClobOutPutStream.java/1.17/Wed Jun 08 04:31:03 2005//Treplicator2_1
+/ClobStreamObject.java/1.4/Sat Jul 16 14:04:14 2005//Treplicator2_1
+/DateObject.java/1.21.6.2/Fri Mar 10 03:44:37 2006//Treplicator2_1
+/DoubleObject.java/1.17/Wed Jul 20 11:13:20 2005//Treplicator2_1
+/FloatObject.java/1.17/Wed Jul 20 11:13:20 2005//Treplicator2_1
+/IntegerObject.java/1.18/Wed Jul 20 11:13:20 2005//Treplicator2_1
+/LongObject.java/1.20/Wed Jul 20 11:13:20 2005//Treplicator2_1
+/RBlob.java/1.14/Mon Apr 25 05:48:15 2005//Treplicator2_1
+/RClob.java/1.16/Mon Apr 25 05:48:15 2005//Treplicator2_1
+/RepAsciiStream.java/1.3/Mon Sep 05 03:31:36 2005//Treplicator2_1
+/RepInputStream.java/1.5/Mon Sep 05 03:31:36 2005//Treplicator2_1
+/SQLServerVarCharObject.java/1.12/Sat Jul 16 14:04:14 2005//Treplicator2_1
+/StringObject.java/1.16/Sat Jul 16 14:04:14 2005//Treplicator2_1
+/StringSQL_VariantObject.java/1.9/Sat Jul 16 14:04:14 2005//Treplicator2_1
+/TimeObject.java/1.22.6.2/Fri Mar 10 03:44:37 2006//Treplicator2_1
+/TimeStampObject.java/1.22.4.2/Fri Mar 10 03:44:37 2006//Treplicator2_1
+D
